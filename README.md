@@ -2,7 +2,8 @@
 
 ## Introduction
 
-Exposes Islandora objects to the alias-creating tools of [Pathauto](https://www.drupal.org/project/pathauto). 
+Allows you to create custom URLs to Islandora objects using the alias-creating tools of 
+[Pathauto](https://www.drupal.org/project/pathauto). 
 
 ## Requirements
 
@@ -16,7 +17,7 @@ Install as usual, see [this](https://drupal.org/documentation/install/modules-th
 
 ## Configuration
 
-Configure the path patterns using the usual Pathauto interface, at Administration » Configuration » Search and Metadata » URL Aliases » Patterns (admin/config/search/path/patterns). 
+This module creates a new Configure the path patterns using the usual Pathauto interface, at Administration » Configuration » Search and Metadata » URL Aliases » Patterns (admin/config/search/path/patterns). 
 
 ![Pathauto Configuration](https://raw.githubusercontent.com/wiki/Islandora/islandora_pathauto/images/sample-pathauto-configuration.png)
 
